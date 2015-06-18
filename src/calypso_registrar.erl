@@ -1,5 +1,5 @@
 -module(calypso_registrar).
--author("begemot").
+-author("Sergey Loguntsov").
 
 %% API
 -export([

@@ -1,5 +1,5 @@
 -module(cl_registrar_sup).
--author("begemot").
+-author("Sergey Loguntsov").
 
 -behaviour(supervisor).
 

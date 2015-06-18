@@ -1,5 +1,5 @@
 -module(cl_registrar_storage).
--author("begemot").
+-author("Sergey Loguntsov").
 
 %% API
 -export([
