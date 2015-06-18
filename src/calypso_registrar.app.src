@@ -1,0 +1,12 @@
+% -*- mode: Erlang;-*-
+{application, calypso_registrar,
+ [
+  {description, "Calypso Registrar for temporary storing current configuration of Calypso component."},
+  { mod, { calypso_registrar_app, [] }},
+  {vsn, "1"},
+  {modules, []},
+  {registered, []},
+  {applications, [ kernel, stdlib, lager, gproc ]},
+  {env, []}
+ ]}.
+
